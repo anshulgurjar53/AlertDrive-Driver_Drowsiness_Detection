@@ -10,8 +10,17 @@ Instructions:-
 5. Install pygame          run command - pip install pygame
 
 
+
+Download the model and dataset file from the link below:-
+https://drive.google.com/drive/folders/1IEwERTok-ygNrXBDR75fi6FIPYr_Nwf3?usp=drive_link
+
+
 Following are the sample Outputs:-
+
+
 ![Open1](https://github.com/anshulgurjar53/AlertDrive-Driver_Drowsiness_Detection/assets/90499262/60229709-5edd-4dd0-87ce-2225d003effb)
+
+
 ![Closed1](https://github.com/anshulgurjar53/AlertDrive-Driver_Drowsiness_Detection/assets/90499262/bbcf032c-e0b0-4ee1-8ffe-79201836ee9b)
 
 
